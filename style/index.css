@@ -128,8 +128,9 @@ a{
 }
 
 #location{
-    font-size: .7rem;
+    font-size: 1rem;
     color: rgb(107, 105, 105);
+    
 }
 
 
@@ -162,6 +163,9 @@ footer{
         align-items: center;
     }
 
+    nav {
+        margin-top: 3%;
+    }
 
 }
 
