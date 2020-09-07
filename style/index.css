@@ -148,3 +148,19 @@ footer{
     
 }
 
+/* Media inquiries  */
+
+@media (max-width: 800px) {
+
+}
+
+@media (max-width: 500px) {
+    
+    .name-nav-container {
+        display: flex;
+        justify-content: column;
+    }
+    
+}
+
+
