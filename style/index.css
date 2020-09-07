@@ -152,6 +152,7 @@ footer{
 /* Media inquiries  */
 
 @media (max-width: 800px) {
+    
 
 }
 
@@ -161,10 +162,19 @@ footer{
         display: flex;
         flex-direction: column;
         align-items: center;
+        font-size: 2rem;
     }
 
     nav {
         margin-top: 3%;
+    }
+
+    body {
+        font-size: 1.2rem;
+    }
+
+    #button-bottom {
+        font-size: 2rem;
     }
 
 }
